@@ -8,5 +8,4 @@ Para la traduccion agregue una nueva clase llamada Traductor que sera la encarga
 solo deberemos agregar las palabras con su traduccion correcta.
 Agregue una nueva clase llamada ContadorFormas la cual nos permite llevar los totales de cada forma agrupadas en un diccionario.
 Modifique tambien los tests y agregue nuevos metodos para probar la implementacion de un nuevo idioma y de las formas Trapecio y Rectangulo.
-Autor:Marcos Ledesma
-Fecha:20/12/2021
+
